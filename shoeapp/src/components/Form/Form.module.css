@@ -1,0 +1,75 @@
+.form{
+    background-color: blanchedalmond;
+    height: 200px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 10px;
+    border-color: black;
+}
+.name{
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 20px;
+    margin-top: 20px;
+    border-color: blue;
+}
+.des{
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 20px;
+    border-color: blue;
+}
+.price{
+    border-radius: 25px;
+    margin-left: 20px;
+    height: 20px;
+    border-color: blue;
+}
+.l{
+    width: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-color: blue;
+}
+.m{
+    width: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-color: blue;
+}
+.s{
+    width: 40px;
+    margin-left: 10px;
+    margin-right: -25px;
+    border-color: blue;
+}
+
+.btn{
+    background-color: blue;
+    color: white;
+    height: 50px;
+    width: 150px;
+    margin-left: 700px;
+    margin-top: 0px;
+    border-radius: 25px;
+    font-size: 18px;
+}
+.ll{
+    font-weight: bold;
+    font-size: 20px;
+}
+.lm{
+    font-weight: bold;
+    font-size: 20px;
+}
+.ls{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.q{
+    font-size: 18px;
+    font-weight: bold;
+}
